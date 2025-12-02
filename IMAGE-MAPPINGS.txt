@@ -1,0 +1,28 @@
+✅ IMAGE MAPPINGS COMPLETE
+
+HERO SECTION:
+- Hero Background: images/IMG_9986.jpg
+
+FEATURED OBJECTS:
+- Orion Nebula (M42): images/m42.JPEG
+- Andromeda Galaxy (M31): images/IMG_9920.JPG
+- Milky Way from Mauna Kea: images/7.5.23MaunakeaMilkyWay-22.jpg
+
+GALLERY (Stellina Smart Telescope):
+- Lagoon Nebula (M8): images/IMG_1218.jpg
+- Trifid Nebula (M20): images/IMG_1219.jpg
+- Pinwheel Galaxy (M101): images/IMG_1220.jpg
+- Omega Centauri (NGC 5139): images/IMG_1221.jpg
+- Ring Nebula (M57): images/IMG_1222.jpg
+
+BEHIND THE SCENES:
+- Calibrating tracker: images/IMG_99912.jpg
+- Camera screen with Orion: images/IMG_9996.jpg
+- Polar aligning: images/IMG_9894.jpg
+- Raw M31 exposure: images/IMG_9898.jpeg
+
+All image paths have been updated in:
+- index.html (gallery cards and featured sections)
+- script.js (lightbox data)
+
+Your site is now ready to test!
